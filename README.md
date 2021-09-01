@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhijeet Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I'm a Student || Competetive Programmer || Backend Developer 
+#### I'm a Student || Competetive Programmer || FullStack Developer 
 
 - 🔭 I am currently working on MERN Stack
 - 🌱 I’m currently learning Data Structures & Algorithm
