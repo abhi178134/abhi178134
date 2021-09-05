@@ -36,10 +36,8 @@
 
 ---
 
-### Github Usage ~ Status
-
-[![Abhijeet's Github Stats](https://github-readme-stats.vercel.app/api?username=abhi178134&theme=vision-friendly-dark&show_icons=true&count_private=true)](https://github.com/abhi178134/github-readme-stats)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi178134&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi178134&show_icons=true&theme=dark"/>
 [website]: https://github.com/abhi178134
 [twitter]: https://twitter.com/abhi178134
 [instagram]: https://www.instagram.com/abhijeet_2323/
