@@ -39,7 +39,7 @@
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi178134&show_icons=true&theme=dark&count_private=true)"/>
-![](https://github.com/abhi178134/github-stats/blob/master/generated/overview.svg)
+
 
 [instagram]: https://www.instagram.com/abhijeet_2323/
 [linkedin]: https://www.linkedin.com/in/abhi178134/
