@@ -17,7 +17,6 @@
 
 <br/>
 
-
 ### Languages and Tools:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -39,6 +38,14 @@
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi178134&show_icons=true&theme=dark&count_private=true)"/>
+<br/>
+<br/>
+
+<a href="https://github.com/abhi178134/github-stats">
+
+![](https://github.com/abhi178134/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/abhi178134/github-stats/blob/master/generated/languages.svg)
+</a>
 
 [instagram]: https://www.instagram.com/abhijeet_2323/
 [linkedin]: https://www.linkedin.com/in/abhi178134/
