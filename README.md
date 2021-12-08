@@ -40,12 +40,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi178134&show_icons=true&theme=dark&count_private=true)"/>
 <br/>
 <br/>
-
+<!-- 
 <a href="https://github.com/abhi178134/github-stats">
 
 ![](https://github.com/abhi178134/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/abhi178134/github-stats/blob/master/generated/languages.svg)
-</a>
+</a> -->
 
 
 [instagram]: https://www.instagram.com/abhijeet_2323/
