@@ -1,13 +1,12 @@
 ### Hi there, I'm Abhijeet Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I'm a Student || Competetive Programmer || FullStack Developer 
+#### I'm a Software Developer || Competetive Programmer 
 
-- 🔭 I am currently working on MERN Stack
-- 🌱 I’m currently learning Data Structures & Algorithm
+- 🔭 I am currently working on Learning New Tech Stacks
 - 💬 Ask me about: Anything 😄
 - 👯 I’m looking to collaborate with other enthusiasts
-- 🥅 2021 Goals: Become expert @ Competitive Programming
-- 📫 Reach me at: 2019003@iiitdmj.ac.in
+- 🥅 2024 Goals: Be better than 2023
+- 📫 Reach me at: abhijeet178134@gmail.com
 
 
 ### Connect with me:
